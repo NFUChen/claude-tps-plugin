@@ -1,0 +1,6 @@
+{
+  "name": "tok-rate",
+  "version": "0.1.0",
+  "description": "Shows output tokens per second of the model for the main loop and each subagent.",
+  "types": "./types/index.d.ts"
+}
